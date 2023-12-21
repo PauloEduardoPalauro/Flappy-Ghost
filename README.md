@@ -36,4 +36,18 @@ python jogo.py
 <br>
 
 # Imagens
-<img src="https://i.imgur.com/HlmdN4W.gif" width="300" alt="flappy ghost" />
+<img src="https://i.imgur.com/HjxKaUG.png"  width="300" alt="red project" />
+<img src="https://i.imgur.com/HlmdN4W.gif" width="300" alt="red project" />
+
+
+
+# Considerações Finais
+Sinta-se à vontade para explorar, modificar e contribuir para este projeto. Alguns links que utilizei para fazer todo esse projeto, e que pode ser útil.
+
+Links Uteis:
+
+- [Pygame - Home](https://www.pygame.org/news)
+- [Pygame - Docs](https://github.com/red)
+- [Exemplos](https://github.com/pyladiesdf/flappy-tutorial)
+- [Mais Exemplos](https://www.askpython.com/python/examples/flappy-bird-game-in-python)
+- [Tutorial](https://www.youtube.com/watch?v=7IqrZb0Sotw)
