@@ -22,22 +22,29 @@ git clone https://github.com/PauloEduardoPalauro/Flappy-Ghost
 </p>
 
 <br>
-2. Instale o pygames:
+2. Vá para o diretório
+
+```bash
+cd Flappy-Ghost
+```
+
+<br>
+3. Instale o pygames:
 
 ```bash
 pip install pygame
 ```
 <br>
-3. Execute o jogo:
+4. Execute o jogo:
 
 ```bash
-python jogo.py
+python3 jogo.py
 ```
 <br>
 
 # Imagens
-<img src="https://i.imgur.com/HjxKaUG.png"  width="300" alt="red project" />
-<img src="https://i.imgur.com/HlmdN4W.gif" width="300" alt="red project" />
+<img src="https://i.imgur.com/HjxKaUG.png"  width="300" alt="flappy ghost" />
+<img src="https://i.imgur.com/HlmdN4W.gif" width="300" alt="flappy ghost" />
 
 
 
